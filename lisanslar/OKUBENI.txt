@@ -1,0 +1,17 @@
+LayoutVO — üçüncü taraf bileşenler ve lisansları / Third-party components and licenses
+
+1. three.js r183 — MIT — Copyright © 2010-2026 three.js authors — three.js-MIT.txt
+2. Bricolage Grotesque; IBM Plex Sans, IBM Plex Mono — SIL Open Font License 1.1 — OFL-yazitipleri.txt
+3. Malzeme dokuları / Material textures — Poly Haven, CC0 1.0 (public domain)
+4. Yapay zekâ fotoğrafı / AI photo model (on-device):
+   - Realistic Vision V5.1 (SG161222) — CreativeML Open RAIL-M — CreativeML-OpenRAIL-M.txt
+     https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE
+   - Stable Diffusion v1.5 (base) — CreativeML Open RAIL-M
+   - ControlNet v1.1 depth (lllyasviel/control_v11f1p_sd15_depth) — OpenRAIL
+   - sd-vae-ft-mse (Stability AI) — MIT
+   - apple/ml-stable-diffusion (Core ML pipeline) — MIT, Copyright (c) 2024 Apple Inc. — apple-ml-stable-diffusion-MIT.txt
+   Değişiklikler / Modifications: LayoutVO tarafından iç mekân fotoğraflarına göre LoRA ile ince ayar yapıldı,
+   Core ML biçimine dönüştürüldü ve 6 bit sıkıştırıldı. Fine-tuned with LoRA on interior images by LayoutVO,
+   converted to Core ML and compressed to 6 bits.
+   Bu model ve türevleri lisansın 5. paragrafındaki kullanım kısıtlamalarına tabidir (Ek A).
+   The model and its derivatives are subject to the use-based restrictions in paragraph 5 (Attachment A).
