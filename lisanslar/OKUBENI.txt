@@ -1,8 +1,9 @@
 LayoutVO — üçüncü taraf bileşenler ve lisansları / Third-party components and licenses
 
 1. three.js r183 — MIT — Copyright © 2010-2026 three.js authors — three.js-MIT.txt
+   (içinde / includes fflate — MIT — Copyright (c) 2023 Arjun Barrett)
 2. Bricolage Grotesque; IBM Plex Sans, IBM Plex Mono — SIL Open Font License 1.1 — OFL-yazitipleri.txt
-3. Malzeme dokuları / Material textures — Poly Haven, CC0 1.0 (public domain)
+3. Malzeme dokuları ve 26 eşya modeli / Material textures and 26 furniture models — Poly Haven, CC0 1.0 (public domain): modern_arm_chair_01, mid_century_lounge_chair, dining_chair_02, coffee_table_round_01, modern_coffee_table_01, modern_coffee_table_02, sofa_02, Ottoman_01, side_table_01, modern_wooden_cabinet, drawer_cabinet, wooden_display_shelves_01, steel_frame_shelves_01, Shelf_01, potted_plant_02, potted_plant_04, electric_stove, round_wooden_table_01, Sofa_01, ArmChair_01, GreenChair_01, ClassicNightstand_01, ornate_mirror_01, modern_ceiling_lamp_01, ceiling_fan, hanging_picture_frame_02
 4. Yapay zekâ fotoğrafı / AI photo model (on-device):
    - Realistic Vision V5.1 (SG161222) — CreativeML Open RAIL-M — CreativeML-OpenRAIL-M.txt
      https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE
